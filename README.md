@@ -9,4 +9,6 @@ Get an API Key, by going to the Get Started Page, filling out the form and signi
 
 Back on the main api documentation page, click the Authorize button and enter your API key. This will allow you to test out API calls in the documentation.
 
-![Uploading SimulatorScreenRecording-iPhone16ProMax-2024-10-23at02.36.55-ezgif.com-video-to-gif-converter (1).gif…]()
+
+
+![SimulatorScreenRecording-iPhone16ProMax-2024-10-23at02 36 55-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/9f016a7b-b2e8-4afc-ab3d-01c0bb9ecdb3)
